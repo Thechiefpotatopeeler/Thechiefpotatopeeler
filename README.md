@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a high school student studying Cybersecurity, Programming, Robotics, Penetration testing, and music.
+## I'm a high school student studying Cybersecurity, Programming, Robotics, Penetration testing, and music (amongst other things).
 
 ---
 
