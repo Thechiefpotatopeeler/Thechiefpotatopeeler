@@ -17,3 +17,11 @@
 <img align="left" alt="C++" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
+
+### :fire: My Stats :
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Thechiefpotatopeeler&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thechiefpotatopeeler&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
