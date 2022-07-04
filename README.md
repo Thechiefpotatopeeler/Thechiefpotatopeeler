@@ -17,8 +17,8 @@
 <img align="left" alt="C++" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="45px" src="https://github.com/devicons/devicon/tree/master/icons/git/git-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="45px" src="https://github.com/devicons/devicon/tree/master/icons/github/github-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Github" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-plain.svg" style="padding-right:10px;" />
 
 
 ### :fire: My Stats :
