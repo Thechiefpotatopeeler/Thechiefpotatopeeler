@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a high school student learning Cybersecurity, Programming, Robotics, Penetration testing, and music (amongst other things).
+## I'm a high school student learning and interested in Cybersecurity, Programming, Robotics, and Penetration testing (amongst other things).
 
 ---
 
@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Java, Git, Github, VSCODE, C++, Python, and Golang
 - 🤔 I’m looking for help with developing the Eldritch mod (I need someone who can program animations)
 - 👯 I’m looking to collaborate on the Eldritch mod
+- Outside of programming and STEM, I'm a latin/jazz/rock musician, gamer, and cook 
 
 ### 🛠️ Languages and Tools I use/study:
   
