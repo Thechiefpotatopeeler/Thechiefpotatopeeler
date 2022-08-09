@@ -19,6 +19,8 @@
 <img align="left" alt="Java" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Javascript" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
+
+
 <img align="left" alt="C" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Raspberry Pi" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
